@@ -1,37 +1,27 @@
----
+#E-Commerce Platform
+A custom-built, monolithic e-commerce platform developed with C#, ASP.NET, and ADO.NET, using MSSQL for the database.
+Designed as a full-featured system covering customer-facing and admin operations.
 
-# E-Commerce / E-Ticaret 
+#Features
+Products & Inventory: Product management, categories, stock tracking, pricing
+Orders & Sales: Shopping cart, checkout, order processing, invoices, history
+Customer Management: Profiles, order history, embedded CRM functionality
+Content & Banners: Banner/campaign management, dynamic content pages
+Payments: POS and payment gateway integration
+Contact: Customer inquiries and admin messaging
+Admin Panel: Centralized control over products, orders, customers, and content
 
-Welcome to our e-commerce!
-It utilizes C# with ADO.NET and MSSQL for backend operations, while the frontend is developed using HTML, JavaScript, and AJAX for dynamic interactions. 
+#Tech Stack
+Backend: C#, ASP.NET, ADO.NET, MSSQL
+Frontend: HTML, JavaScript, AJAX
+Architecture: Monolithic, self-hosted, IIS-based
 
-## Modules
+#Summary
+A complete, monolithic ASP.NET e-commerce platform with built-in CMS, customer management, and POS/payment integration.
 
-1. **Product Module**: Manages products available in the system.
-2. **Product Detail Module**: Provides detailed information about products.
-3. **Contact Module**: Handles communication with users/customers.
-4. **Order Module**: Manages orders placed by customers.
-5. **Order Detail Module**: Provides detailed information about orders.
-6. **Payment System**: Facilitates secure payments for orders.
-
-## Technologies Used
-
-- **Backend**:
-  - C#
-  - ADO.NET
-  - MSSQL
-  
-- **Frontend**:
-  - HTML
-  - JavaScript
-  - AJAX
-
-## Contributing
-
-We welcome contributions from the community. If you'd like to contribute, please follow these steps:
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/branchname`).
-3. Commit your changes (`git commit -m 'Add some branchname'`).
-4. Push to the branch (`git push origin feature/branchname`).
-5. Open a pull request.
----
+#Contributing
+Fork the repo
+Create a feature branch: git checkout -b feature/your-feature
+Commit your changes: git commit -m "Add feature"
+Push: git push origin feature/your-feature
+Open a pull request
