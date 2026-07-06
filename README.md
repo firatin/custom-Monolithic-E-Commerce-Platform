@@ -1,5 +1,5 @@
 # 📦 E-Commerce Platform
-**Custom-built, monolithic e-commerce platform** using ASP.NET, ADO.NET, and MSSQL. Designed as a full-featured commerce system with both customer and admin functionality.
+**Custom-built, monolithic e-commerce platform** using ASP.NET, C#, ADO.NET, and MSSQL. Designed as a full-featured commerce system with both customer and admin functionality.
 
 ---
 
